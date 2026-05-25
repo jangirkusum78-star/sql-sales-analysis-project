@@ -41,7 +41,7 @@ The datasets contain transactional sales and invoice information that were analy
 | invoice_id   | Invoice identifier      |
 | invoice_date | Invoice generation date |
 | product_id   | Product identifier      |
-| total_sale   | Total invoice sales     |
+| total_sales  | Total invoice sales     |
 | discount     | Discount applied        |
 | customer_id  | Customer identifier     |
 | quantity     | Quantity sold           |
